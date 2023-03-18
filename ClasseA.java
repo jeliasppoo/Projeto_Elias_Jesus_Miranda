@@ -34,5 +34,8 @@ class ClasseA {
     public void mA2(){
         System.out.print("mA2()");
     }
-
+    //Atendieo enunciado 4
+    public void mA3(){
+        System.out.print("Alteralção da classe A apartir");
+    }
 }
