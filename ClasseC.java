@@ -1,5 +1,5 @@
 /*============================================================
-File: ClasseA.java
+File: ClasseC.java
 Data: 25-11-22_22
 --------------------------------------------------------------
 Graduando: ELIAS DE JESUS MIRANDA 
@@ -8,7 +8,7 @@ Disciplina:Engenharia de Software
 TURMA: GCC188-2022/2-V1-10A-G010 
 --------------------------------------------------------------*/
 
-class CasseC{
+class CasseC {
     private String c1;
     private int c2;
 
@@ -18,5 +18,9 @@ class CasseC{
 
     public void mC2(){
         System.out.print("mC2()");
+    }
+    // Atendendo o enuciado 12
+    public void mC3(){
+        System.out.print("mC3()");
     }
 }
