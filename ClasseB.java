@@ -1,5 +1,5 @@
 /*============================================================
-File: ClasseA.java
+File: ClasseB.java
 Data: 25-11-22_22
 -------------------------------------------------------------
 Graduando: ELIAS DE JESUS MIRANDA 
@@ -8,7 +8,7 @@ Disciplina:Engenharia de Software
 TURMA: GCC188-2022/2-V1-10A-G010 
 -------------------------------------------------------------*/
 
-class ClasseB{
+class ClasseB {
     private int b1;
     private int b2;
 
@@ -34,6 +34,11 @@ class ClasseB{
     public void mB2(){
         System.out.print("mB2()");
     }
+    // Atendendo o enunciando 12
+    public void mB3(){
+        System.out.print("mB3()");
+    }
+
 }
 
 
