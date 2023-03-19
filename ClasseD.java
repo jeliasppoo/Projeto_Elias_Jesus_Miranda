@@ -24,5 +24,9 @@ class ClasseD {
     public void mD2(){
         System.out.print("mD2()");
     }
+    //Atendendo o enunciado 19
+    public void mD3(){
+        System.out.print("mD3()");
+    }
     
 }
