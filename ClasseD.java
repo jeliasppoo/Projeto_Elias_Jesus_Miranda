@@ -24,9 +24,16 @@ class ClasseD {
     public void mD2(){
         System.out.print("mD2()");
     }
+<<<<<<< HEAD
     //Atendendo o enunciado 19
     public void mD3(){
         System.out.print("mD3()");
     }
     
+=======
+    //Atendendo o enunciado 21
+    public void mD4(){
+        system.cout.print("mD4()");
+    }
+>>>>>>> aba43fed3ff7cd9589fd302c1c5a8e5e12a14114
 }
